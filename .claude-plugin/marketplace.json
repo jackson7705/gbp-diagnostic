@@ -1,0 +1,34 @@
+{
+  "name": "gbp-diagnostic",
+  "owner": {
+    "name": "Jason Jackson",
+    "url": "https://github.com/jackson7705"
+  },
+  "metadata": {
+    "description": "Local SEO triage for Claude Code — find the few ranking limiters that actually matter, then hand the client a branded audit page.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "gbp-diagnostic",
+      "displayName": "GBP Diagnostic",
+      "description": "The 12-Minute Diagnostic System for local SEO. Finds the 3–5 real ranking limiters holding back a Google Business Profile or local website, in order, with the first fix called out — then publishes a client-ready audit page branded to your agency.",
+      "author": {
+        "name": "Jason Jackson"
+      },
+      "homepage": "https://github.com/jackson7705/gbp-diagnostic",
+      "repository": "https://github.com/jackson7705/gbp-diagnostic",
+      "license": "MIT",
+      "category": "seo",
+      "keywords": [
+        "seo",
+        "local-seo",
+        "google-business-profile",
+        "gbp",
+        "map-pack",
+        "audit"
+      ],
+      "source": "./plugins/gbp-diagnostic"
+    }
+  ]
+}

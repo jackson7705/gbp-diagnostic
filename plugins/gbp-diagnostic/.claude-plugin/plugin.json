@@ -1,0 +1,21 @@
+{
+  "name": "gbp-diagnostic",
+  "description": "The 12-Minute Diagnostic System for local SEO. Finds the 3–5 real ranking limiters holding back a Google Business Profile or local website, in order, with the first fix called out — then publishes a client-ready audit page branded to your agency. Triage you run before a full audit, not instead of one.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jason Jackson"
+  },
+  "homepage": "https://github.com/jackson7705/gbp-diagnostic",
+  "repository": "https://github.com/jackson7705/gbp-diagnostic",
+  "license": "MIT",
+  "category": "seo",
+  "keywords": [
+    "seo",
+    "local-seo",
+    "google-business-profile",
+    "gbp",
+    "map-pack",
+    "audit",
+    "diagnostic"
+  ]
+}
